@@ -62,13 +62,13 @@ Reactive Technologies, Oulu, Finland <a href="http://www.reactive-technologies.c
 - SAT and FAT plans for system strength modulator
 - Consumer success story for system strength pilot 
 ##### Innovation
--First ever commercial system strength measurement service developed from scratch
--Two patents filed regarding system strength measurement
+- First ever commercial system strength measurement service developed from scratch
+- Two patents filed regarding system strength measurement
 ##### Business support
--Sales support, presales engineering, proposal support and technical pitching of system strength solution to TOs around the globe
+- Sales support, presales engineering, proposal support and technical pitching of system strength solution to TOs around the globe
 ##### Full time/part time father
--full time parental leave between April 2025-June 2025
--part time parental leave from Augyst 2025-Feb 2026
+- Full time parental leave between April 2025-June 2025
+- Part time parental leave from Augyst 2025-Feb 2026
 
 ## Work Experience
 ### Power System Expert (June 2023- Jan 2024 )
